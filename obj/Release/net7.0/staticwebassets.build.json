@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3rq4GjQK0eNSzhZln/TKVNyjhyrEnr5Am1bozjdCdO0=",
+  "Source": "CandleLightApi",
+  "BasePath": "_content/CandleLightApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
