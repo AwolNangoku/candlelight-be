@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{510722AC-CB6B-44E7-8936-CF33B666391E}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="27" Column="1" />
+      <File FileName="Controllers/WeatherForecastController.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="WeatherForecast.cs" />
+      <File FileName="appsettings.Development.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CandleLightApi" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CandleLightApi PreferredExecutionTarget="/Volumes/Google Chrome/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
