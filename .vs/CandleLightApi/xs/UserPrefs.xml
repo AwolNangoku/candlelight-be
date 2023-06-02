@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{510722AC-CB6B-44E7-8936-CF33B666391E}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+﻿<Properties StartupConfiguration="{0FBFB5B3-2BFF-45A4-991D-7FB08346B9FA}|https">
+  <MonoDevelop.Ide.ItemProperties.CandleLightApi PreferredExecutionTarget="/Applications/Safari.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="27" Column="1" />
-      <File FileName="Controllers/WeatherForecastController.cs" />
       <File FileName="appsettings.json" />
       <File FileName="WeatherForecast.cs" />
       <File FileName="appsettings.Development.json" />
@@ -12,12 +16,14 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CandleLightApi" expanded="True" selected="True" />
+          <Node name="CandleLightApi" expanded="True">
+            <Node name="CandleLightApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CandleLightApi PreferredExecutionTarget="/Volumes/Google Chrome/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

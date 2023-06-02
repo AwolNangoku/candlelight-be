@@ -10,7 +10,7 @@ namespace CandleLightApi.Controllers
     {
         private static readonly HttpClient client = new HttpClient();
         private readonly IConfiguration _config;
-        private const string _apiKey = "E75336D6-6DC6424A-817DD807-79F7D491";
+        private const string _apiKey = "83C941BB-D915496E-959C597C-F4CB7A16";
 
 /// <summary>
 /// Get LoadShedding Status Nationally
