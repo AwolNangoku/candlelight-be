@@ -1,4 +1,4 @@
-﻿using CandleLightApi.Services;
+using CandleLightApi.Services;
 
 internal class Program
 {
