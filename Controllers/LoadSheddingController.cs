@@ -67,7 +67,7 @@ namespace CandleLightApi.Controllers
         /// <param name="area"></param>
         /// <returns></returns>
         /// <exception cref="Exception"></exception>
-        [HttpGet("search/{area}")]
+      /*  [HttpGet("search/{area}")]
         public async Task<ActionResult<AreaRoot>> GetAreas(string area)
         {
             client.DefaultRequestHeaders.Add("Token", _apiKey);
@@ -86,7 +86,7 @@ namespace CandleLightApi.Controllers
             {
                 throw new Exception("API request failed with status code: " + response.StatusCode);
             }
-        }
+        } */
 
         /// <summary>
         /// Find areas based on GPS coordinates (latitude and longitude).
